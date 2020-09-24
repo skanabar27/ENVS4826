@@ -24,7 +24,7 @@ summary(cars)
 This is a basic plot, with changes.
 
 ```{r plot}
-plot (1:10)
+plot (1:10, ylab = "one to ten")
 ```
 
 
